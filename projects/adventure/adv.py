@@ -44,7 +44,7 @@ to a list of n/s/e/w directions before you can add it your traversal path.
     - how to store pre-determined opposite directions
         - list, dict, tup, or set?
             - unorderdered, keys, and values
-                - dict
+                - dict {}
 
 - be able to keep track [store] of rooms visited via...
     - list, dict, tup, or set?
